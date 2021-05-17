@@ -1,4 +1,5 @@
 gunicorn
+django-cors-headers
 sorl-thumbnail
 psycopg2-binary
 drf_yasg
